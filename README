@@ -1,0 +1,9 @@
+/*Adding the hover effect to btn-1,2 and 3*/
+/* added the color: background and color under hover*/
+/*added border-radius of 10% for a more defined button look*/
+/*Used google and youtube as my referance*/
+/*added letter-spacing*/
+/* added <a></a> and href to referance the buttons*/
+/*on html i added <span></span>*/
+/*used var() for the buttons to give the appropriate effect.*/
+/*change background color*/
